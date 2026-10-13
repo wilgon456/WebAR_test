@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Web AR Playground</title>
+  <desc id="desc">A marker becomes a stage.. Project banner.</desc>
+  <rect width="1200" height="260" rx="18" fill="#0f172a"/>
+  <rect x="0" y="0" width="14" height="260" fill="#22d3ee"/>
+  <path d="M735 0v260" stroke="#334155" stroke-width="1"/>
+  <text x="58" y="105" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">Web AR Playground</text>
+  <text x="60" y="158" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="24">A marker becomes a stage.</text>
+  <text x="60" y="216" fill="#22d3ee" font-family="Arial, Helvetica, sans-serif" font-size="19">github.com/wilgon456</text>
+  <g fill="none" stroke="#22d3ee" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"><path d="M845 95V65h35 M1005 95V65h-35 M845 180v30h35 M1005 180v30h-35 M925 88l45 25v50l-45 25-45-25v-50z M880 113l45 25 45-25 M925 138v50"/></g>
+</svg>
